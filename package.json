@@ -15,7 +15,7 @@
     "brcast": "^2.0.2",
     "exenv": "^1.2.2",
     "prop-types": "^15.5.10",
-    "react-primitives": "^0.5.0"
+    "react-primitives": "pcooney10/react-primitives#878567b"
   },
   "peerDependencies": {
     "react": "^16.2.0"
@@ -47,9 +47,9 @@
     "jest-react-native": "^18.0.0",
     "jscodeshift": "^0.3.32",
     "jsdom": "^11.1.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-test-renderer": "^16.2.0"
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-test-renderer": "^16.5.1"
   },
   "jest": {
     "setupFiles": [
